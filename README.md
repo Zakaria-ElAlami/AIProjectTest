@@ -18,8 +18,4 @@ A real-time game played via webcam. The AI detects hand gestures using skeletal 
 * **Tech Stack:** OpenCV, MediaPipe.
 * **Key Concept:** Real-time Inference, Image Processing.
 
-## 🛠️ Installation
-1. Clone the repo
-2. Install dependencies:
-   ```bash
-   pip install pandas scikit-learn opencv-python mediapipe
+
